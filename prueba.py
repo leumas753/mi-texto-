@@ -4,4 +4,5 @@ def run():
 
 def main():
     run()
-    
+def test():
+    print("Hola mundo")
